@@ -15,3 +15,4 @@ Follow the on-screen instructions to input the desired IP range and initiate the
 After the scan completes, review the results saved in the generated CSV file.
 Close the application window when finished.
 By following these steps, you can efficiently scan a range of IP addresses and obtain their status using the "IP Range Scanner" PowerShell script.
+Additionally you are able to download the .exe file and run it that way as well.
